@@ -25,3 +25,4 @@ replay_pid*
 /standalone-mtx-approuter/mta_archives/
 /standalone-mtx-approuter/resources/
 /**/node_modules/
+/java/demo/.mvn/
