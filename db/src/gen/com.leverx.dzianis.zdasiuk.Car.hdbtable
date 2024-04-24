@@ -1,5 +1,0 @@
-COLUMN TABLE com_leverx_dzianis_zdasiuk_Car (
-  ID INTEGER NOT NULL,
-  "NUMBER" NVARCHAR(5000),
-  PRIMARY KEY(ID)
-)

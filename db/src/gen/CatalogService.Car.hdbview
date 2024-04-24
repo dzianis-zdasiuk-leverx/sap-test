@@ -1,4 +1,0 @@
-VIEW CatalogService_Car AS SELECT
-  Car_0.ID,
-  Car_0."NUMBER"
-FROM com_leverx_dzianis_zdasiuk_Car AS Car_0

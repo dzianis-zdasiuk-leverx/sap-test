@@ -50,19 +50,6 @@ modules:
         properties:
           url: ${default-url}
 
-  - name: cap-db-deployer
-    type: hdb
-    path: db
-    parameters:
-      buildpack: nodejs_buildpack
-    build-parameters:
-      builder: custom
-      commands:
-        - npm run build
-    requires:
-      - name: cap-db
-
-
 resources:
   - name: demo-xsuaa
     type: org.cloudfoundry.managed-service
@@ -73,8 +60,3 @@ resources:
       config:
         xsappname: demo-${org}-${space}
         tenant-mode: dedicated
-  - name: cap-db
-    type: com.sap.xs.hdi-container
-    parameters:
-      service: hana
-      service-plan: hdi-shared
