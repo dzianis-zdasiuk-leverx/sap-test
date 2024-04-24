@@ -1,9 +1,0 @@
-{
-  "routes": [
-    {
-      "source": "^/demo/(.*)$",
-      "target": "$1",
-      "destination": "demo"
-    }
-  ]
-}
