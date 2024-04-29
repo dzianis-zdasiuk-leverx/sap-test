@@ -4,35 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad2be2e7-9008-4231-9d0c-29da0f1fa8a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sap-test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo_1.0.0-SNAPSHOT.mtar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srv/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srv/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srv/demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srv/src/main/java/com/example/demo/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srv/src/main/java/com/example/demo/repository/EmployeeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/srv/src/main/java/com/example/demo/service/EmployeeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/data/cars.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/models/car-model.cds" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/src/gen/.hdiconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/src/gen/.hdinamespace" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/src/gen/CatalogService.Car.hdbview" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/src/gen/com.leverx.dzianis.zdasiuk.Car.hdbtable" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mta.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/mta.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srv/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/srv/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srv/src/main/java/com/example/demo/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/srv/src/main/java/com/example/demo/controller/EmployeeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/srv/src/main/java/com/example/demo/hadler/CatalogServiceHandler.java" beforeDir="false" />
+    <list default="true" id="ad2be2e7-9008-4231-9d0c-29da0f1fa8a8" name="Changes" comment="i">
+      <change afterPath="$PROJECT_DIR$/bookshop/db/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cdsrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookshop/mta.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/bookshop/mta.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookshop/mtx/sidecar/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/bookshop/mtx/sidecar/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookshop/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bookshop/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookshop/srv/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bookshop/srv/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookshop/srv/src/main/java/customer/bookshop/configs/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookshop/srv/src/main/java/customer/bookshop/configs/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookshop/srv/src/main/java/customer/bookshop/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookshop/srv/src/main/java/customer/bookshop/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookshop/srv/src/main/java/customer/bookshop/handlers/CatalogServiceHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookshop/srv/src/main/java/customer/bookshop/handlers/CatalogServiceHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookshop/srv/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/bookshop/srv/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,22 +29,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dzianis-zdasiuk-leverx"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dzianis-zdasiuk-leverx&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dzianis-zdasiuk-leverx/sap-test.git",
-    "accountId": "13d2b1b4-7319-43fb-8fe0-6b9dfb7b7044"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dzianis-zdasiuk-leverx/sap-test.git&quot;,
+    &quot;accountId&quot;: &quot;13d2b1b4-7319-43fb-8fe0-6b9dfb7b7044&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/bookshop/mtx/sidecar/package.json" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2fVObBdCeZkd06iuw12P3pyBahW" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -69,19 +59,51 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.CatalogServiceHandlerTest.executor": "Run",
+    "Maven.bookshop-parent [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DzianisZdasiuk/IdeaProjects/CAP-OData-Pet-project-master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DzianisZdasiuk\IdeaProjects\sap-test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CatalogServiceHandlerTest">
+    <configuration name="CatalogServiceHandlerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="customer.bookshop.handlers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="customer.bookshop.handlers" />
+      <option name="MAIN_CLASS_NAME" value="customer.bookshop.handlers.CatalogServiceHandlerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="bookshop" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="customer.bookshop.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
@@ -89,6 +111,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CatalogServiceHandlerTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -107,7 +134,25 @@
       <option name="presentableId" value="Default" />
       <updated>1713882855424</updated>
       <workItem from="1713882857900" duration="9144000" />
+      <workItem from="1713979604197" duration="22798000" />
     </task>
+    <task id="LOCAL-00001" summary="i">
+      <option name="closed" value="true" />
+      <created>1713979666999</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713979666999</updated>
+    </task>
+    <task id="LOCAL-00002" summary="i">
+      <option name="closed" value="true" />
+      <created>1713981211917</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713981211917</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,5 +171,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="i" />
+    <option name="LAST_COMMIT_MESSAGE" value="i" />
   </component>
 </project>

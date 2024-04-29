@@ -7,8 +7,9 @@ import java.util.UUID;
 
 @RestController
 public class TestController {
+
     @GetMapping("/test")
-    public String getTest(){
+    public String getTest() {
         return UUID.randomUUID().toString();
     }
 }

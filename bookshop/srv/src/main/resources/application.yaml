@@ -10,9 +10,9 @@ spring:
 cds:
   datasource:
     auto-config:
-      enabled: false
-  multi-tenancy:
-    mtxs:
       enabled: true
-    sidecar:
-      url: http://localhost:4005/
+#  multi-tenancy:
+#    mtxs:
+#      enabled: false
+#    sidecar:
+#      url: http://localhost:4005/
