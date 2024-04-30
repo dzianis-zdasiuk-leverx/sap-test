@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad2be2e7-9008-4231-9d0c-29da0f1fa8a8" name="Changes" comment="i">
-      <change afterPath="$PROJECT_DIR$/bookshop/db/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cdsrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookshop/mta.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/bookshop/mta.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookshop/mtx/sidecar/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/bookshop/mtx/sidecar/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookshop/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bookshop/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookshop/srv/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bookshop/srv/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bookshop/srv/src/main/java/customer/bookshop/configs/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookshop/srv/src/main/java/customer/bookshop/configs/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookshop/srv/src/main/java/customer/bookshop/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookshop/srv/src/main/java/customer/bookshop/controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookshop/srv/src/main/java/customer/bookshop/handlers/CatalogServiceHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/bookshop/srv/src/main/java/customer/bookshop/handlers/CatalogServiceHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookshop/srv/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/bookshop/srv/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +48,13 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "JUnit.CatalogServiceHandlerTest.executor": "Run",
     "Maven.bookshop-parent [install].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.Application.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/DzianisZdasiuk/IdeaProjects/CAP-OData-Pet-project-master",
@@ -80,7 +72,7 @@
       <recent name="C:\Users\DzianisZdasiuk\IdeaProjects\sap-test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CatalogServiceHandlerTest">
+  <component name="RunManager" selected="Spring Boot.Application">
     <configuration name="CatalogServiceHandlerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bookshop" />
       <extension name="coverage">
@@ -126,6 +118,13 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringProfilesService">
+    <option name="activeProfiles">
+      <map>
+        <entry key="bookshop" value="local" />
+      </map>
+    </option>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ad2be2e7-9008-4231-9d0c-29da0f1fa8a8" name="Changes" comment="" />
@@ -134,7 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1713882855424</updated>
       <workItem from="1713882857900" duration="9144000" />
-      <workItem from="1713979604197" duration="22798000" />
+      <workItem from="1713979604197" duration="25301000" />
     </task>
     <task id="LOCAL-00001" summary="i">
       <option name="closed" value="true" />
@@ -152,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713981211917</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="i">
+      <option name="closed" value="true" />
+      <created>1714414622184</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714414622184</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

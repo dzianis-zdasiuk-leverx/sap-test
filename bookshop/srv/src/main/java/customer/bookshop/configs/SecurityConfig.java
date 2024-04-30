@@ -3,6 +3,7 @@ package customer.bookshop.configs;
 
 import com.sap.cloud.security.xsuaa.XsuaaServiceConfiguration;
 import com.sap.cloud.security.xsuaa.token.TokenAuthenticationConverter;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
@@ -20,12 +21,8 @@ import org.springframework.security.web.SecurityFilterChain;
 @EnableMethodSecurity(securedEnabled = true, jsr250Enabled = true)
 public class SecurityConfig {
 
-    final
+    @Autowired(required = false)
     XsuaaServiceConfiguration xsuaaServiceConfiguration;
-
-    public SecurityConfig(XsuaaServiceConfiguration xsuaaServiceConfiguration) {
-        this.xsuaaServiceConfiguration = xsuaaServiceConfiguration;
-    }
 
     @Bean
     @Profile("cloud")
